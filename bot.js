@@ -11,7 +11,7 @@ channel.send(`**Alven Spam, Alven Spam, Alven Spam, Alven Spam, Alven Spam, Alve
 })
 
 client.on('message', message => {
- if(message.author.id !== "557289550779645953" )return;
+ if(message.author.id !== "558365557133541406" )return;
 
 let command = "1say"
 
